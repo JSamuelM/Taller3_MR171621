@@ -1,4 +1,6 @@
-# Taller3MR171621
+# Taller 3 - MR171621
+
+José Samuel Mena Reyes - 01L
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
